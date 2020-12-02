@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # **************************************************************************************************************
+# The initial template was borrowed from SAP Altisclae and leveraged on HDInsights platform for 
+# creating and managing jupyter kernels
+#
 # This script sets up jupyter settings and kernel on behalf of a user.
 # Dependencies:
 #   conda virtualenv with jupyter, ipython, R modules installed in a known place,
